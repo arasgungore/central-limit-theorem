@@ -8,7 +8,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 
 ## Figures
 
-### Q2
+### 2) Uniform RV
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_1.jpg" width="400">
@@ -17,7 +17,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 </p>
 
 
-### Q3
+### 3) Exponential RV
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_1.jpg" width="400">
@@ -26,7 +26,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 </p>
 
 
-### Q4
+### 4) Bernoulli RV
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_1.jpg" width="400">
@@ -35,7 +35,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 </p>
 
 
-### Q5
+### 5) Poisson RV
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_1.jpg" width="400">
