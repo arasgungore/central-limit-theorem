@@ -1,6 +1,6 @@
 # central-limit-theorem
 
-A MATLAB project which applies the central limit theorem (CLT) on probability density functions (PDFs) and cumulative distribution functions (CDFs) of different random variables.
+A MATLAB project which applies the central limit theorem (CLT) on probability density functions (PDFs) and cumulative distribution functions (CDFs) of different probability distributions such as uniform, exponential, Bernoulli, and Poisson distribution.
 
 This homework was assigned for the Probability for Electrical Engineers (EE 313) course in the Fall 2021-22 semester.
 
@@ -30,7 +30,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 
 ## Figures
 
-### 2) Uniform RV
+### 2) Uniform PDF
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_1.jpg" width="400">
@@ -39,7 +39,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 </p>
 
 
-### 3) Exponential RV
+### 3) Exponential PDF
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_1.jpg" width="400">
@@ -48,7 +48,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 </p>
 
 
-### 4) Bernoulli RV
+### 4) Bernoulli CDF
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_1.jpg" width="400">
@@ -57,7 +57,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 </p>
 
 
-### 5) Poisson RV
+### 5) Poisson CDF
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_1.jpg" width="400">
