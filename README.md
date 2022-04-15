@@ -10,6 +10,10 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 
 ### 1) E[A] and Var[A]
 
+<p align="left">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Proof/Q1/q1.jpg" width="800">
+</p>
+
 ```
 𝐸[𝐴] = 𝐸[𝐾1 + 𝐾2 + ⋯ + 𝐾𝑛] =
 𝐸[𝐾1] + 𝐸[𝐾2] + ⋯ + 𝐸[𝐾𝑛] =
