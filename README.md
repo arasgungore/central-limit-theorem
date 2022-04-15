@@ -1,6 +1,6 @@
 # central-limit-theorem
 
-A MATLAB project which applies the central limit theorem (CLT) on probability density functions and cumulative distribution functions of different random variables.
+A MATLAB project which applies the central limit theorem (CLT) on probability density functions (PDFs) and cumulative distribution functions (CDFs) of different random variables.
 
 This homework was assigned for the Probability for Electrical Engineers (EE 313) course in the Fall 2021-22 semester.
 
