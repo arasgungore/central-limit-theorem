@@ -1,2 +1,5 @@
 # central-limit-theorem
-A MATLAB project for an application of central limit theorem on different RVs.
+
+A MATLAB project which applies central limit theorem (CLT) on probability density functions and cumulative distribution functions of different random variables.
+
+
