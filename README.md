@@ -11,36 +11,36 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 ### Q2
 
 <p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_1.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_2.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_3.jpg" width="250">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_1.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_2.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_3.jpg" width="500">
 </p>
 
 
 ### Q3
 
 <p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_1.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_2.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_3.jpg" width="250">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_1.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_2.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q3/q3_3.jpg" width="500">
 </p>
 
 
 ### Q4
 
 <p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_1.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_2.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_3.jpg" width="250">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_1.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_2.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q4/q4_3.jpg" width="500">
 </p>
 
 
 ### Q5
 
 <p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_1.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_2.jpg" width="250">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_3.jpg" width="250">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_1.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_2.jpg" width="500">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q5/q5_3.jpg" width="500">
 </p>
 
 
