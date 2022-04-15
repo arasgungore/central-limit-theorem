@@ -33,7 +33,7 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 ### 2) Uniform PDF
 
 <p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_1.jpg" width="400">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_1.jpg" width="400" height="300">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_2.jpg" width="400">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/central-limit-theorem/main/Figures/Q2/q2_3.jpg" width="400">
 </p>
