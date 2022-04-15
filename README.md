@@ -8,6 +8,8 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 
 ## Proof
 
+### 1) E[A] and Var[A]
+
 ```
 𝐸[𝐴] = 𝐸[𝐾1 + 𝐾2 + ⋯ + 𝐾𝑛] =
 𝐸[𝐾1] + 𝐸[𝐾2] + ⋯ + 𝐸[𝐾𝑛] =
