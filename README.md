@@ -8,6 +8,14 @@ This homework was assigned for the Probability for Electrical Engineers (EE 313)
 
 
 
+## Run on Terminal
+
+```sh
+matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
+```
+
+
+
 ## Proof
 
 ### 1) E[A] and Var[A]
